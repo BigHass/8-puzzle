@@ -1,7 +1,3 @@
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][www.linkedin.com/in/husni-abed]
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -22,8 +18,8 @@ This project implements a customized 8-puzzle problem using the Breadth-First Se
    ```
 3. Compile and run the program
    ```sh
-     g++ -std=c++11 main.cpp -o main
-     ./main
+    g++ -std=c++11 main.cpp -o main
+    ./main
    ```
 
 
@@ -67,9 +63,9 @@ Number of expanded nodes: 7
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/husni_abed) - email@example.com
+Husni Abed - [@husni_abed](https://twitter.com/husni_abed) - husniabed99@gmail.com
 
-Project Link: [https://github.com/bighass/8-puzzle](https://github.com/bighass/8-puzzle)
+Project Link: [Customized 8-puzzle](https://github.com/bighass/8-puzzle)
 
 
 
