@@ -10,7 +10,7 @@ This project implements a customized 8-puzzle problem using the Breadth-First Se
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bighass/8-puzzle.git
+   git clone https://github.com/BigHass/8-puzzle.git
    ```
 2. Navigate to the project directory
    ```sh
@@ -18,7 +18,7 @@ This project implements a customized 8-puzzle problem using the Breadth-First Se
    ```
 3. Compile and run the program
    ```sh
-    g++ -std=c++11 main.cpp -o main
+    g++ -std=c++11 8-puzzle.cpp -o 8-puzzle
     ./main
    ```
 
