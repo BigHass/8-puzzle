@@ -58,7 +58,13 @@ Elapsed time in seconds: 2 ms
 Number of generated nodes: 28
 Number of expanded nodes: 7
   ```
+## Contributing
 
+Contributions to the project are welcome. If you have any suggestions for improvements or would like to report a bug, please create a new issue on the project's GitHub repository.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <!-- CONTACT -->
 ## Contact
